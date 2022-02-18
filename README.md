@@ -1,3 +1,5 @@
+# Anisotropic Image Classification
+
 This project deals with classifying an image using a gradient-free method
 when the standard Euclidean metric is replaced by a matrix norm.
 Classifying an image in this way, which is sometimes referred to as
